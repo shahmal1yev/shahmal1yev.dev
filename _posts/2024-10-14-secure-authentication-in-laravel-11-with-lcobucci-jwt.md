@@ -246,8 +246,8 @@ In this migration, we have four columns:
 
 - **uuid**('id'): We define a unique key for each JWT. Using UUID allows us to directly use it for the jti (JWT ID) claim
   found in the JWT's payload without handling an additional value.
-- **morphs**('tokenable'): More information about polymorphic relationships can be found <a href="https://laravel.
-  com/docs/11.x/eloquent-relationships#polymorphic-relationships" target="_blank">here</a>. We 
+- **morphs**('tokenable'): More information about polymorphic relationships can be found 
+  <a href="https://laravel.com/docs/11.x/eloquent-relationships#polymorphic-relationships" target="_blank">here</a>. We 
   use a polymorphic relationship to easily extend this implementation for other models in the future if needed.
 - **json**('token'): We will store the unencrypted form of our tokens here.
 - **timestamps()**: We add the general and necessary timestamp columns for our table.
@@ -428,8 +428,8 @@ class Token extends Model
 
 ```
 
-> According to the current implementation, each `Token` model simultaneously refers to an <a href="https://github.
-> com/lcobucci/jwt/blob/5.5.x/src/UnencryptedToken.php">`UnencryptedToken`</a>.
+> According to the current implementation, each `Token` model simultaneously refers to an 
+> <a href="https://github.com/lcobucci/jwt/blob/5.5.x/src/UnencryptedToken.php">`UnencryptedToken`</a>.
   {: .prompt-tip }
 
 **Explanation of Model Properties:**
