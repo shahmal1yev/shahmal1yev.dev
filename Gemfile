@@ -16,4 +16,6 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "logger"
 gem "csv"
 gem "base64"
+gem "jekyll-gist"
+gem 'faraday-retry'
 gem "jekyll-sitemap"
