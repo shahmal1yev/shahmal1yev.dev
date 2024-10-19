@@ -2809,3 +2809,10 @@ ensure that your authentication system remains reliable and secure.
 
 Feel free to adapt and expand upon the examples presented here to fit your project’s needs, and always stay up to 
 date with best practices for secure application development.
+
+<iframe 
+    src="https://github.com/sponsors/shahmal1yev/button" 
+    title="Sponsor shahmal1yev" 
+    height="32" 
+    width="100%"
+    style="border: 0; border-radius: 6px;margin: 0 auto;"></iframe>
