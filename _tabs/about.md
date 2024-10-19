@@ -21,7 +21,7 @@ high-quality, reusable code for enterprise-level applications.
 <iframe 
   src="https://drive.google.com/file/d/1ExJcI07aX-zByutxzseaI-KI_HbLnUnI/preview" 
   width="100%" 
-  height="600"></iframe>
+  height="500"></iframe>
 
 ## My Mission
 
@@ -61,5 +61,5 @@ latest in backend architectures, cybersecurity trends, or exploring new open-sou
 
 ## Support Me
 
-<iframe src="https://github.com/sponsors/shahmal1yev/card" title="Sponsor shahmal1yev" height="225" width="100%"
+<iframe src="https://github.com/sponsors/shahmal1yev/card" title="Sponsor shahmal1yev" height="250" width="100%"
 style="border: 0;"></iframe>
