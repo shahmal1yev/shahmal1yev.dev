@@ -3,6 +3,13 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+## Resume
+
+<iframe 
+  src="https://drive.google.com/file/d/1ExJcI07aX-zByutxzseaI-KI_HbLnUnI/preview" 
+  width="100%" 
+  height="600"></iframe>
+
 ## About Me
 
 Welcome! I’m Eldar Shahmaliyev, a **Software Engineer** who is passionate about building high-quality, scalable 
