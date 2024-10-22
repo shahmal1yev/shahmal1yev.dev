@@ -4,7 +4,7 @@ description: A step-by-step guide for implementing secure authentication using l
 date: 2024-10-14 19:30
 categories: [Laravel, JWT]
 tags: [php, lcobucci, jwt, laravel, authentication]
-author: 1
+author: shahmal1yev
 ---
 
 > This guide is intended to provide a general overview, and the code samples included are designed as templates. It 
