@@ -24,6 +24,7 @@ gem "base64", "~> 0.3"
 # Jekyll plugins
 gem "jekyll-gist", "~> 1.5"
 gem "jekyll-sitemap", "~> 1.4"
+gem "jekyll-archives", "~> 2.2"
 
 # Network retry functionality
 gem "faraday-retry", "~> 2.3"

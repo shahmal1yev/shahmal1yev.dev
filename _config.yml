@@ -221,9 +221,10 @@ jekyll-archives:
     category: category
     tag: tag
   permalinks:
-    tag: /tags/:name
-    category: /categories/:name
+    tag: /tags/:name/
+    category: /categories/:name/
 
 plugins:
   - jekyll-gist
   - jekyll-sitemap
+  - jekyll-archives
