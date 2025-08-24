@@ -98,11 +98,11 @@ theme_mode: dark
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/images/avatar.png"
+avatar: "https://www.gravatar.com/avatar/135b8744aac40aa66db474e22dfd730a?s=300&d=identicon"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: "/assets/img/avatar.png"
+social_preview_image: "/assets/img/og-image.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
